@@ -9,5 +9,4 @@ def top_5_categories():
     ])
     sort_categories = sorted(categories, key=lambda x: (-x['count'], x['_id']))
     pop_categories = [category['_id'] for category in sort_categories[:5]]
-    print('LOG --->', pop_categories)
     return pop_categories
