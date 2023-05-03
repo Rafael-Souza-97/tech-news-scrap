@@ -1,7 +1,6 @@
 from tech_news.database import db
 
 
-# Requisito 10
 def top_5_categories():
     categories = db.news.aggregate([
         {"$unwind": "$category"},
