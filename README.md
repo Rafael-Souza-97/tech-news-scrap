@@ -1,10 +1,6 @@
 # Tech News Scrap
 
-> `Atenção`: Este projeto foi desenvolvido inteiramente em Python, apesar do repositório estar sendo marcado como HTML erroneamente. As tecnologias e ferramentas utilizadas incluem: Python, Pytest, Parsel e MongoDB.
-
-<br>
-
-Este projeto tem como objetivo permitir a consulta de notícias sobre tecnologia obtidas através da raspagem do [blog da Trybe](https://blog.betrybe.com/). O projeto foi desenvolvido em Python, utilizando as bibliotecas Pytest, MongoDB e Parsel para realizar a raspagem de dados.
+Este projeto tem como objetivo permitir a consulta de notícias sobre tecnologia obtidas através da raspagem do [Blog da Trybe](https://blog.betrybe.com/). O projeto foi desenvolvido em Python, utilizando as bibliotecas Pytest, MongoDB e Parsel para realizar a raspagem de dados.
 
 As habilidades trabalhadas neste projeto incluem a utilização do terminal interativo do Python, escrita de módulos e importação em outros códigos, aplicação de técnicas de raspagem de dados, extração de dados de conteúdo HTML e armazenamento dos dados obtidos em um banco de dados.
 
